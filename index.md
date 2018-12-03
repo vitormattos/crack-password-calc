@@ -3,12 +3,12 @@
     <tbody><tr> 
       <td align="right">Password length:</td>
       <td> 
-        <input type="text" id="len" size="6" value="5" data-cip-id="len"></td>
+        <input type="text" id="len" size="6" value="7" data-cip-id="len"></td>
     </tr>
     <tr> 
       <td align="right">Speed:</td>
       <td> 
-        <input type="text" id="speed" size="11" value="500,000" name="T1" data-cip-id="speed"> passwords per second</td>
+        <input type="text" id="speed" size="11" value="348000000000" name="T1" data-cip-id="speed"> passwords per second</td>
     </tr>
     <tr> 
       <td height="25" align="right">Number of computers: </td>
