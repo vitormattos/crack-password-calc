@@ -27,7 +27,7 @@
           <tr> 
             <td width="25"> <input type="checkbox" name="csuppr" value="ON" checked=""></td>
             <td>chars in upper case</td>
-            <td width="25"> <input type="checkbox" name="csascii" value="ON"></td>
+            <td width="25"> <input type="checkbox" name="csascii" value="ON" checked=""></td>
             <td>full ASCII</td>
           </tr>
           <tr> 
