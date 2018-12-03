@@ -21,18 +21,18 @@
           <tbody><tr> 
             <td width="25"> <input type="checkbox" name="cslwr" value="ON" checked=""></td>
             <td>chars in lower case&nbsp;</td>
-            <td width="25"> <input type="checkbox" name="cssymb" value="ON"></td>
+            <td width="25"> <input type="checkbox" name="cssymb" value="ON" checked=""></td>
             <td>common punctuation&nbsp;</td>
           </tr>
           <tr> 
-            <td width="25"> <input type="checkbox" name="csuppr" value="ON"></td>
+            <td width="25"> <input type="checkbox" name="csuppr" value="ON" checked=""></td>
             <td>chars in upper case</td>
             <td width="25"> <input type="checkbox" name="csascii" value="ON"></td>
             <td>full ASCII</td>
           </tr>
           <tr> 
             <td width="25" height="25"> 
-              <input type="checkbox" name="csdigits" value="ON"></td>
+              <input type="checkbox" name="csdigits" value="ON" checked=""></td>
             <td colspan="3">digits&nbsp;</td>
           </tr>
         </tbody></table></td>
