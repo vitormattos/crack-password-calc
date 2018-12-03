@@ -7,4 +7,4 @@ https://vitormattos.github.io/crack-password-calc/
 ## how
 
 This script is created to presentation:
-https://slides.com/vitormattos/senhas
+https://slides.com/vitormattos/senhas#/5/2
