@@ -101,4 +101,5 @@ function doit() {
 
     document.all.item("result2").innerHTML = s;
 }
+doit();
 </script>
